@@ -2,7 +2,7 @@
 	"name": "node-fetch",
 	"version": "2.6.0",
 	"description": "A light-weight module that brings window.fetch to node.js",
-	"main": "dist/dist-node/index.js",
+	"main": "dist/dist-src/index.js",
 	"module": "dist/index.mjs",
 	"types": "types/index.d.ts",
 	"files": [
